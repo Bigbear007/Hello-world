@@ -1,2 +1,3 @@
 # Hello-world
-It's a beginning.
+#It's a beginning.
+printf("Hello,World!");
